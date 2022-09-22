@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "d324751f-c828-e776-d241-e547c8298ada",
+    "Name": "DeveloperTrainning",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1663848272000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DeveloperTrainning.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
